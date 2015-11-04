@@ -1,0 +1,1 @@
+Hello, I'm file in branch2 branch
